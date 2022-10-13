@@ -1,0 +1,54 @@
+.img{
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+.img2{
+    max-height: 200px;
+    max-width: 200;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.img3{
+    max-height: 200px;
+    max-width: 200;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+
+.first_div ul{
+    list-style-type: none;
+    margin: 0;
+    margin-right: auto;
+    background-color:black;
+    padding: 1.5%;
+    display:inline-block;
+    width: 100%;
+    color:white;
+    font-size:15px;
+}
+.first_div li{
+    margin:5px;
+    padding: 0 2.5%;
+    float: left;
+    }
+
+    #Griot{
+        font-size:150%;
+    }
+
+    #list1{
+        margin-left: 50px;
+    }
+
+    #bottomshit{
+        max-height: 80%;
+        max-width: 90%;
+        padding: 10px;
+        margin-left: 60px;
+    }
+
+
